@@ -25,7 +25,7 @@ Text Domain:  accelerate-theme-child
 .blog-post h4 {
 	font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
 	color: #a6a6a6;
-	text-transform: uppercase;
+	text-transform: lowercase
 	margin: 2em 0 .5em;
 }
 .blog-post h3 {
